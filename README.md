@@ -10,4 +10,5 @@
 
 ## Sicherheit
 
-Bitte sende hier **keine sicherheitsrelevanten Meldungen** ein.
+Bitte sende hier **keine sicherheitsrelevanten Meldungen** ein.    
+Melde dich dafür auf unserem **Teamspeak Server** (ts.alternate-life.de)
