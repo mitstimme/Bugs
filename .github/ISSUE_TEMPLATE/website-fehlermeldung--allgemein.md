@@ -1,8 +1,8 @@
 ---
-name: 'In-Game Fehlermeldung: Allgemein'
-about: Meldungen zu Allgemeinen Fehlern
-title: "[InGame] "
-labels: ''
+name: 'Website Fehlermeldung: Allgemein'
+about: Eine Meldung zu Problem mit unseren Webseiten
+title: "[Web]"
+labels: bug, web
 assignees: ''
 
 ---
@@ -23,7 +23,7 @@ Wenn nötig, füge Screenshots an um das Problem zu erklären.
 
 **System**
  - Betriebssystem: [z.B. Windows 10]
- - GTA Version [Steam / Socialclub]
+ - Browser: [z.B. Chrome 72]
 
 **Weitere Informationen**
 Füge weitere Informationen an, welche uns bei der Fehlersuche behilflich sein können.
