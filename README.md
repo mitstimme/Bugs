@@ -1,5 +1,14 @@
 # Alternate-Life Bugtracker
 
+![https://img.shields.io/github/issues-closed-raw/AlternateLife/Bugs.svg?label=Geschlossene%20Issues]()
+![https://img.shields.io/github/issues-raw/AlternateLife/Bugs.svg?label=Offene%20Issues]()
+![https://img.shields.io/website/https/portal.alternate-life.de.svg?down_message=offline&label=Portal&up_message=online](https://portal.alternate-life.de)
+![https://img.shields.io/twitter/follow/AlternateLifede.svg?label=Folge%20%40AlternateLifede&style=social](https://twitter.com/AlternateLifede)
+
+Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des Alternate-Life Projekts. Das vorige Mantis-System wird dadurch abgelöst.
+
+[![Discord](https://discordapp.com/api/guilds/486163467590565891/embed.png?style=banner2)](https://discord.gg/gvFDZfY)
+
 ## Fehlermeldungen einsenden
 
 1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2FAlternateLife%2FBugs).
