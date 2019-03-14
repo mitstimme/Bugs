@@ -1,9 +1,9 @@
 # Alternate-Life Bugtracker
 
-![https://img.shields.io/github/issues-closed-raw/AlternateLife/Bugs.svg?label=Geschlossene%20Issues]()
-![https://img.shields.io/github/issues-raw/AlternateLife/Bugs.svg?label=Offene%20Issues]()
-![https://img.shields.io/website/https/portal.alternate-life.de.svg?down_message=offline&label=Portal&up_message=online](https://portal.alternate-life.de)
-![https://img.shields.io/twitter/follow/AlternateLifede.svg?label=Folge%20%40AlternateLifede&style=social](https://twitter.com/AlternateLifede)
+[![Geschlossene Issues](https://img.shields.io/github/issues-closed-raw/AlternateLife/Bugs.svg?label=Geschlossene%20Issues)](https://github.com/romanzipp/Laravel-Twitch/issues?q=is%3Aissue+is%3Aclosed)
+[![Offene Issues](https://img.shields.io/github/issues-raw/AlternateLife/Bugs.svg?label=Offene%20Issues)](https://github.com/romanzipp/Laravel-Twitch/issues?q=is%3Aopen+is%3Aissue)
+[![Portal Status](https://img.shields.io/website/https/portal.alternate-life.de.svg?down_message=offline&label=Portal&up_message=online)](https://portal.alternate-life.de)
+[![Twitter](https://img.shields.io/twitter/follow/AlternateLifede.svg?label=Folge%20%40AlternateLifede&style=social)](https://twitter.com/AlternateLifede)
 
 Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des Alternate-Life Projekts. Das vorige Mantis-System wird dadurch abgelöst.
 
