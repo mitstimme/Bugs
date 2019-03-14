@@ -23,7 +23,7 @@ Schritte, um den Fehler zu reproduzieren:
 
 **System**
  - Betriebssystem: [z.B. Windows 10]
- - GTA Version [Steam / Socialclub]
+ - GTA Version: [Steam / Socialclub]
 
 **Weitere Informationen**
 [Füge weitere Informationen an, welche uns bei der Fehlersuche behilflich sein können.]
