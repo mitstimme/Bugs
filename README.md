@@ -11,8 +11,6 @@
 
 Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des Alternate-Life Projekts. Das vorige Mantis-System wird dadurch abgelöst.
 
-[![Discord](https://discordapp.com/api/guilds/486163467590565891/embed.png?style=banner2)](https://discord.gg/gvFDZfY)
-
 ## Fehlermeldungen einsenden
 
 1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2FAlternateLife%2FBugs).
@@ -25,3 +23,9 @@ Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des 
 
 Bitte sende hier **keine sicherheitsrelevanten Meldungen** ein.    
 Melde dich dafür auf unserem **Teamspeak Server** (ts.alternate-life.de)
+
+## Discord
+
+[![Alternate-Life Discord](https://discordapp.com/api/guilds/486163467590565891/embed.png?style=banner2)](https://discord.gg/gvFDZfY)
+
+[![Alternate-Life Development Discord](https://discordapp.com/api/guilds/401509555684769802/embed.png?style=banner2)](https://discord.gg/uAVhvBT)
