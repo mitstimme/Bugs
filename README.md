@@ -19,6 +19,12 @@ Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des 
 4. Fülle alle Felder aus (Ersetze die Texte in eckigen Klammern `[...]` durch deine Angaben).
 5. Prüfe über den "Preview"-Tab oberhalb des Eingabefensters, ob die Fehlermeldung korrekt formatiert ist.
 
+### Was sind keine Fehlermeldungen?
+
+- Vorschläge für neue Features sollten über das [Vorschlag-Feature im Portal](https://portal.alternate-life.de/suggestions) eingereicht werden.
+- Bei Fragen sollte ein Ticket über das [Ticketsystem im Portal](https://portal.alternate-life.de/tickets) geöffnet werden.
+- Für den Austausch mit der Community haben wir einen öffentlichen Discord Server bereitgestellt. Die Links dazu findest du unten.
+
 ## Sicherheit
 
 Sende hier **keine sicherheitsrelevanten Meldungen** ein.    
