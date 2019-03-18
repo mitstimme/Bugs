@@ -21,8 +21,8 @@ Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des 
 
 ## Sicherheit
 
-Bitte sende hier **keine sicherheitsrelevanten Meldungen** ein.    
-Melde dich dafür auf unserem **Teamspeak Server** (ts.alternate-life.de)
+Sende hier **keine sicherheitsrelevanten Meldungen** ein.    
+Melde dich bitte dafür auf unserem **Teamspeak Server** (ts.alternate-life.de) oder schreibe eine E-Mail an [hey@alternate-life.de](mailto:hey@alternate-life.de).
 
 ## Discord
 
