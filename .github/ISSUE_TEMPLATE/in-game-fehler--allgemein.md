@@ -1,8 +1,8 @@
 ---
 name: 'In-Game Fehler: Allgemein'
-about: Meldungen zu Allgemeinen Fehlern
+about: Meldungen zu allgemeinen Fehlern in RAGE MP
 title: "[InGame] "
-labels: bug, ingame
+labels: bug, ingame, stresstest
 assignees: ''
 
 ---
