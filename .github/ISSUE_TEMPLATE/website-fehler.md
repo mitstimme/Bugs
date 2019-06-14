@@ -1,7 +1,7 @@
 ---
 name: Website Fehler
 about: Eine Meldung zu Problem mit unseren Webseiten
-title: "[Web] "
+title: ''
 labels: bug, web
 assignees: ''
 

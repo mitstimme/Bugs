@@ -1,7 +1,7 @@
 ---
 name: 'In-Game Fehler: Allgemein'
 about: Meldungen zu allgemeinen Fehlern in RAGE MP
-title: "[InGame] "
+title: ''
 labels: bug, ingame, stresstest
 assignees: ''
 
