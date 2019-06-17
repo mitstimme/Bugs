@@ -1,4 +1,4 @@
-<p align="center"><img src="https://portal.alternate-life.de/images/logo-128.png"></p>
+<p align="center"><img src="https://portal.alternate-life.de/storage/brand/classic/favicon-128.png"></p>
 
 <p align="center">
 <a href="https://github.com/AlternateLife/Bugs/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/AlternateLife/Bugs.svg?label=Offene%20Issues" alt="Offene Issues"></a>
