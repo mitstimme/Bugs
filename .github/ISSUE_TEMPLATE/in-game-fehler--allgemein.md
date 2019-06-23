@@ -11,7 +11,7 @@ assignees: ''
 [Eine klare Beschreibung des Fehlers.]
 
 **Charaktername / Namen der beteiligten Charaktere**
-[Eine Liste aller Namen deiner Charaktere oder falls mehrere dabei waren, auch deren Namen]
+[Name deines Charakters oder falls mehrere dabei waren, auch deren Namen]
 
 **Reproduktion des Fehlers**
 Schritte, um den Fehler zu reproduzieren:
