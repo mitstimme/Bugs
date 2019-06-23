@@ -7,26 +7,33 @@ assignees: ''
 
 ---
 
-**Beschreibe den Fehler**
-[Eine klare Beschreibung des Fehlers.]
 
-**Charaktername / Namen der beteiligten Charaktere**
-[Name deines Charakters oder falls mehrere dabei waren, auch deren Namen]
+### Beschreibe den Fehler
+[Eine klare und nachvollziehbare Beschreibung des Fehlers]
 
-**Reproduktion des Fehlers**
+
+### Reproduktion des Fehlers
 Schritte, um den Fehler zu reproduzieren:
 1. ...
 2. ...
 
-**Erwartetes Verhalten**
-[Eine Beschreibung des Verhaltens, welches eigentliche auftreten sollte.]
 
-**Screenshots**
-[Wenn nötig, füge Screenshots an um das Problem zu erklären.]
+### Erwartetes Verhalten
+[Eine Beschreibung des Verhaltens, welches eigentlich auftreten sollte]
 
-**System**
+
+### Weitere Informationen
+[Füge weitere Informationen an, welche uns bei der Fehlersuche behilflich sein können]
+
+
+### Name der/des beteiligten Charakter(e)
+[Name deines Charakters oder falls mehrere dabei waren, auch deren Namen]
+
+
+### System
  - Betriebssystem: [z.B. Windows 10]
  - GTA Version: [Steam / Socialclub]
 
-**Weitere Informationen**
-[Füge weitere Informationen an, welche uns bei der Fehlersuche behilflich sein können.]
+
+### Screenshots
+[Wenn nötig, füge Screenshots an um das Problem zu erklären]
