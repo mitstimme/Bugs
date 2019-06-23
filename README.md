@@ -13,14 +13,9 @@ Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen **Webseiten** des 
 
 ## Fehlermeldungen einsenden
 
-1. Erstelle einen [neuen GitHub Account](https://github.com/join) oder [logge dich ein](https://github.com/login?return_to=%2FAlternateLife%2FBugs).
-2. Eröffne einen [neuen Issue](https://github.com/AlternateLife/Bugs/issues/new/choose) über den "Issues" Tab. ("Issue" = Meldung zu einem Fehler)
-3. Wähle dort zwischen den verfügbaren Vorlagen.
-4. Lege einen passenden Titel fest
-5. Fülle alle Felder aus (Ersetze die Texte inkl. eckigen Klammern `[...]` durch deine Angaben).
-6. Prüfe über den "Preview"-Tab oberhalb des Eingabefensters, ob die Fehlermeldung korrekt formatiert ist.
+### **[Bitte erstelle Fehlermeldungen über den Bug-Generator im Portal!](https://portal.alternate-life.de/bugs)**
 
-### Was sind keine Fehlermeldungen?
+## Was sind keine Fehlermeldungen?
 
 - Vorschläge für neue Features sollten über das [Vorschlag-Feature im Portal](https://portal.alternate-life.de/suggestions) eingereicht werden.
 - Bei Fragen sollte ein Ticket über das [Ticketsystem im Portal](https://portal.alternate-life.de/tickets) geöffnet werden.
